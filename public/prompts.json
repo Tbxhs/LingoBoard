@@ -225,21 +225,6 @@
 "isOpenContext": false
 },
 {
-"id": 16,
-"cateName": "角色模拟",
-"title": "扮演面试官",
-"subTitle": "你将扮演我的面试官。我会告诉你想要面试的职位类型,我作为候选人",
-"msg": "你将扮演我的面试官。我会告诉你想要面试的职位类型,我作为候选人,你将向我询问相关职位的面试问题。我希望你只作为面试官回答。不要一次写出所有的问题。我希望你只对我进行采访。问我问题,等待我的回答。不要写解释。像面试官一样一个一个问我,等我回答。我的第一句话是"面试官你好"",
-"tip": "请输入职位类型...",
-"icon": "person.fill.checkmark",
-"author": "Anonymous",
-"order": 41,
-"methodName": "doAnswerByOpenai",
-"isAddedToChatlist": false,
-"isAddedToKeyboard": false,
-"isOpenContext": false
-},
-{
 "id": 17,
 "cateName": "角色模拟",
 "title": "担任产品经理角色",
@@ -309,21 +294,6 @@
 "icon": "person.wave.2.fill",
 "author": "Anonymous",
 "order": 46,
-"methodName": "doAnswerByOpenai",
-"isAddedToChatlist": false,
-"isAddedToKeyboard": false,
-"isOpenContext": false
-},
-{
-"id": 22,
-"cateName": "角色模拟",
-"title": "充当格言书",
-"subTitle": "我要你充当格言书。您将为我提供明智的建议",
-"msg": "我要你充当格言书。您将为我提供明智的建议、鼓舞人心的名言和意味深长的名言,以帮助指导我的日常决策。此外,如有必要,您可以提出将此建议付诸行动或其他相关主题的实用方法。我的第一个请求是"我需要关于如何在逆境中保持积极性的指导"。",
-"tip": "请输入要求...",
-"icon": "person.wave.2.fill",
-"author": "Anonymous",
-"order": 47,
 "methodName": "doAnswerByOpenai",
 "isAddedToChatlist": false,
 "isAddedToKeyboard": false,
